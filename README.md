@@ -1,4 +1,4 @@
-## Hi there 👋
+## Hi there 🤟
 I'm Saba Dzodzuashvili, a Computer Science student who’s all about web dev, game dev, and cybersecurity. I love diving into stuff that actually solves my problems and building projects that do something real. Using knowledge to fix things and create something useful is what gets me hyped. I hate social media
 - 🎓 Education: I'm currently studying CS at IBSU. Mainly self taught though.
 - 🕸️ I’m currently learning web development with Go
@@ -10,7 +10,7 @@ I'm Saba Dzodzuashvili, a Computer Science student who’s all about web dev, ga
   - **Facebook**: [Saba Dzodzuashvili](https://www.facebook.com/dzodzuashvilisaba)
   - **Instagram**: [Saba Dzodzuashvili](https://www.instagram.com/dzodzuashvilisaba/)
  
-- ⚡ Fun fact: 🔍 The Great Lighter Mystery: No matter how many pockets I have, the lighter is always in the last one I check. It's like my pockets are playing hide-and-seek!
+- ⚡ Fun fact: 🔍 The Great Lighter Mystery: No matter how many pockets I have, the lighter is always in the last one I check.
 
 
 <!--
